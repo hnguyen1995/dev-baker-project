@@ -1,0 +1,84 @@
+h1 {text-align: center;}
+p {text-align: center;}
+
+#myHouse {
+  height: 640px; 
+  width: 950px; 
+  background-color: lightgreen; 
+  margin: auto;
+}
+
+#house{
+  height: 200px;
+  width: 451px;
+  background-color: grey;
+  position: relative; 
+  top: 251px; 
+  left: 200px;
+}
+
+#garage{
+  height: 200px;
+  width: 200px;
+  background-color: yellow;
+  position: relative; 
+  top: 51px; 
+  left: 651px;
+}
+
+#driveway{
+  height: 252px;
+  width: 200px;
+  background-color: lightgrey;
+  position: relative; 
+  top: -700px; 
+  left: 651px;
+}
+
+#storage{
+  height: 100px;
+  width: 100px;
+  background-color: lightblue;
+  position: relative; 
+  top: 40px; 
+  left: 50px;
+}
+
+#frontYard{
+  height: 100px;
+  width: 100px;
+  background-color: lightgreen;
+  position: relative; 
+  top: -400px; 
+  left: 300px;
+}
+
+#backYard{
+  height: 100px;
+  width: 100px;
+  background-color: lightgreen;
+  position: relative; 
+  top: -70px; 
+  left: 450px;
+}
+
+#fenceOne{
+  height: 20px;
+  width: 200px;
+  background-color: brown;
+  position: relative; 
+  top: -600px; 
+  left: 0px;
+}
+
+#fenceTwo{
+  height: 20px;
+  width: 100px;
+  background-color: brown;
+  position: relative; 
+  top: -625px; 
+  left: 850px;
+}
+.layout{
+  text-align: center;
+}
